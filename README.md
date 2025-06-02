@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é @paulalemos-bt
-- 👀 Estou interessada no mundo da tecnoligia
+- 👀 Estou interessada no mundo da tecnologia
 - 🌱 Estou atualmente aprendendo Projeto Open Source no GitHub
 - 💞️ Estou procurando colaborar em novos projetos 
 - 📫 Como chegar até mim, pelo www.linkedin.com/in/ana-paula-lemos-de-vasconcelos
