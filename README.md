@@ -34,7 +34,7 @@
   <img align="center" alt="Ana-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" />
   <img align="center" alt="Ana-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" />
   <img align="center" alt="Ana-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="50"/>
-  <img align="center" alt="Ana-Excel" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="60" height="50"/>
+  <img align="center" alt="Ana-Excel" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="40" height="30"/>
 
   
 ##
