@@ -1,11 +1,55 @@
-- 👋 Olá, Meu nome é @paulalemos-bt
-- 👀 Estou interessada no mundo da tecnologia
-- 🌱 Estou atualmente aprendendo Projeto Open Source no GitHub
-- 💞️ Estou procurando colaborar em novos projetos 
-- 📫 Como chegar até mim, pelo www.linkedin.com/in/ana-paula-lemos-de-vasconcelos
-- ⚡ Curisidades: Amo ler e estar sempre aprendendo algo novo.
+<div>
 
-<!---
-paulalemos-bt/paulalemos-bt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h2> Me chamo Ana Paula (: <h2>   
+<h4>
+   
+  - Aprendiz e entusiasta da inovação, explorando cada linha de código como uma oportunidade.
+  - Estudante de ADS 👩🏾‍💻 
+  - Contact 👇🏾 </h4>
+     </div>
+ 
+<div> 
+   <a href = "mailto:paulalemos.bt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://linkedin.com/in/ana-paula-lemos-de-vasconcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
+ 
+ ##
+ 
+<div align="center" > 
+
+<img align="leaft" alt="Gif" height="300" width="1000" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
+
+</div>
+<hr>
+ <div align="center">
+   
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabellylemos&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabellylemos&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylemos&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=isabellylemos&theme=radical&hide_border=true"/>
+  
+</div>
+   <hr>
+ 
+   
+<div style="display: inline_block" align="center"><br>
+  
+  
+ 
+
+ <img align="center" alt="Ana-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
+  <img align="center" alt="Ana-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="30" />
+  <img align="center" alt="Ana-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" />
+  <img align="center" alt="Ana-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" />
+  <img align="center" alt="Ana-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="50"/>
+
+  
+##
+ 
+</div>
+   
+
+ 
+   
+
+
+
